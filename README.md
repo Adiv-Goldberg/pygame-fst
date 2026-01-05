@@ -1,4 +1,5 @@
-#pygame-fst
+# pygame-fst
+
 my platformer game i created in pygame
 
 to play install folder and run main.py
